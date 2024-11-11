@@ -62,7 +62,7 @@ public class ChatClient {
                     }
                 }
             });
-
+            //kkkkk
             // Start both threads
             receiveThread.start();
             sendThread.start();
